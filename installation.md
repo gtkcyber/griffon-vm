@@ -21,5 +21,14 @@ Once you have VirtualBox installed, the next step is to unzip Griffon.  Once you
 ### Step 1.  Import the VM
 Navigate to the *File* menu and click on *Import Appliance*
 
+![alt text](https://github.com/gtkcyber/griffon-vm/blob/master/images/import-menu.png "Import Appliance Menu")
 
 Next, navigate to the file you just unzipped which contains the Griffon VM and click Continue.
+
+![alt text](https://github.com/gtkcyber/griffon-vm/blob/master/images/step1.png "Import Appliance Dialog Box")
+
+Once you've done that, the next screen will allow you to configure the VM.  If you are using Griffon to experiment with the various big data tools, we recommmend allocating as many CPUs and as much RAM as your system will allow. 
+
+![alt text](https://github.com/gtkcyber/griffon-vm/blob/master/images/step2.png "Configure Griffon Dialog Box")
+
+Click continue, accept the license, and VirtualBox will install the appliance!
