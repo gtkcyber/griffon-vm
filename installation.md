@@ -27,7 +27,7 @@ Next, navigate to the file you just unzipped which contains the Griffon VM and c
 
 ![alt text](https://github.com/gtkcyber/griffon-vm/blob/master/images/step1.png "Import Appliance Dialog Box")
 
-Once you've done that, the next screen will allow you to configure the VM.  If you are using Griffon to experiment with the various big data tools, we recommmend allocating as many CPUs and as much RAM as your system will allow. 
+Once you've done that, the next screen will allow you to configure the VM.  If you are using Griffon to experiment with the various big data tools, we recommmend allocating as many CPUs and as much RAM as your system will allow. **Be sure to check the Reinitialize MAC Address box.**
 
 ![alt text](https://github.com/gtkcyber/griffon-vm/blob/master/images/step2.png "Configure Griffon Dialog Box")
 
