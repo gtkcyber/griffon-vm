@@ -15,3 +15,11 @@ On Debian and Ubuntu
 $ sudo apt-get install p7zip
 ```
 
+## Installing Griffon in VirtualBox
+Once you have VirtualBox installed, the next step is to unzip Griffon.  Once you've done that, open VirtualBox.  The screen shots shown below are from a Mac, but the process should be fundamentally the same for all systems.
+
+### Step 1.  Import the VM
+Navigate to the *File* menu and click on *Import Appliance*
+
+
+Next, navigate to the file you just unzipped which contains the Griffon VM and click Continue.
