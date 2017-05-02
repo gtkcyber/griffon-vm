@@ -9,3 +9,13 @@ Griffon is available for download here: (Coming soon)
 
 ## Installing Griffon
 You can read the complete installation instructions here: https://github.com/gtkcyber/griffon-vm/blob/master/installation.md.
+
+## What does Griffon include?
+Griffon includes many different categories of tools:
+
+* Programming Languages
+* Editors and Notebooks
+* Databases
+* Distributed Computing Tools
+* Data Visualization
+* Machine Learning
