@@ -6,6 +6,7 @@ Griffon is a environment for data science.  Griffon is based on Ubuntu MATE and 
 
 ## Downloading Griffon
 Griffon is available for download here: http://bit.ly/2s9s9L7
+* SHA-1: 94063d3f91470e8c534fd4b24ddbe00ccdceb817
 * SHA-256: 5a0f104f22c7c0cc6b95c2779859bce6042dfc5ae739a25a5b956befa2da1b33
 
 ## Installing Griffon
