@@ -5,7 +5,10 @@ Griffon Data Science Virtual Machine
 Griffon is a environment for data science.  Griffon is based on Ubuntu MATE and includes numerous data science tools, all installed and configured for immediate use.
 
 ## Downloading Griffon
-Griffon is available for download here: (Coming soon)
+Griffon is available for download here: http://bit.ly/2s9s9L7
+* MD5: 57efc44408f3192135d358566ed912a3
+* SHA-1: 94063d3f91470e8c534fd4b24ddbe00ccdceb817
+* SHA-256: 5a0f104f22c7c0cc6b95c2779859bce6042dfc5ae739a25a5b956befa2da1b33
 
 ## Installing Griffon
 You can read the complete installation instructions here: https://github.com/gtkcyber/griffon-vm/blob/master/installation.md.
