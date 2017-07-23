@@ -22,6 +22,6 @@ Griffon includes many different categories of tools:
 * Data Visualization
 * Machine Learning
 
-#FAQs
+# FAQs
 ## What is the root password for Griffon?
 The root user and password is `griffonuser`. There is a file called `passwords.txt` on the desktop which includes a list of all user accounts and passwords.  In general, the password for everything is `griffonuser`.
