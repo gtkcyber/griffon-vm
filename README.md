@@ -10,6 +10,10 @@ Griffon is available for download here: https://bit.ly/griffon2_8
 * **MD5**: 15e82aad4db177a0356777fbe3679ea4
 * **SHA1**: e5335572e10d8e698e7baa2c5250a7d537f4f7f1
 
+Note:  The Google Drive link may cause issues.  Here is a link on Dropbox: 
+https://www.dropbox.com/s/bby5l9bv15qpfh2/Griffon%20Virtual%20Environment%20for%20Data%20Science%202020.ova.7z?dl=0
+
+
 ## Installing Griffon
 You can read the complete installation instructions here: https://github.com/gtkcyber/griffon-vm/blob/master/installation.md.
 
