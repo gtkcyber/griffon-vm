@@ -30,3 +30,8 @@ Griffon includes many different categories of tools:
 # FAQs
 ## What is the root password for Griffon?
 The root user and password is `griffonuser`. There is a file called `passwords.txt` on the desktop which includes a list of all user accounts and passwords.  In general, the password for everything is `griffonuser`.
+
+
+---
+
+Built by [GTK Cyber](https://gtkcyber.com), hands-on AI and data science training for security teams.
